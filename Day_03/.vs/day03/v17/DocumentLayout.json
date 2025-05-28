@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|c:\\users\\madhav\\desktop\\tatvasoft_summer_internship\\day_03\\day03\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|solutionrelative:day03\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|c:\\users\\madhav\\desktop\\tatvasoft_summer_internship\\day_03\\day03\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|solutionrelative:day03\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|c:\\users\\madhav\\desktop\\tatvasoft_summer_internship\\day_03\\day03\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|solutionrelative:day03\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|c:\\users\\madhav\\desktop\\tatvasoft_summer_internship\\day_03\\day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D46B510-D82C-4461-B38A-A45B0D2DF9FD}|day03\\day03.csproj|solutionrelative:day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Program.cs",
+              "RelativeDocumentMoniker": "day03\\Program.cs",
+              "ToolTip": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Program.cs",
+              "RelativeToolTip": "day03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:06:53.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "day03\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "day03\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:42:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "day03\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Services\\BookService.cs",
+              "RelativeToolTip": "day03\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:40:02.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "day03\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Madhav\\Desktop\\TatvaSoft_Summer_internship\\Day_03\\day03\\Model\\Book.cs",
+              "RelativeToolTip": "day03\\Model\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:35:20.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
